@@ -1,2 +1,1 @@
-# Okami
-simple &amp; clean terminal header
+simple terminal header like neofetch.
