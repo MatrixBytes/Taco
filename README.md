@@ -1,11 +1,13 @@
 ### The minimalistic Neofetch alternative!
 
-![Taco](https://cdn.pixabay.com/photo/2013/07/13/09/37/taco-155812__340.png)
-
 <p>
 - Almost no Delay <br />
 - Minimalistic <br />
 - Reminds you on taco day <br />
+
+How to configure Taco day?
+Change TACOTIME (line 11) to your week day.
+Default is 6 (Friday).
 
 Example output: <br /></p>
 ```
