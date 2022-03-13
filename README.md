@@ -1,5 +1,7 @@
 ### The minimalistic Neofetch alternative!
 
+![Taco](https://cdn.pixabay.com/photo/2013/07/13/09/37/taco-155812__340.png)
+
 <p>
 - Almost no Delay <br />
 - Minimalistic <br />
