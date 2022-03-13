@@ -1,17 +1,17 @@
 ### The minimalistic Neofetch alternative!
 
 <p>
-- Almost no Delay
-- Minimalistic
-- Reminds you on taco day
+- Almost no Delay <br />
+- Minimalistic <br />
+- Reminds you on taco day <br />
 
-Example output:
+Example output: <br />
 
-    ╭╯╭╯╭╯     │ neo@pop-os
-   ╱▔▔▔▔▔╲▔╲   ├───────────────────
-  ╱┈╭╮┈╭╮┈╲╮╲  │ Arch: 64bit
-  ▏┈▂▂▂▂▂┈▕╮▕  │ Release: 5.15
-  ▏┈╲▂▂▂╱┈▕╮▕  │ Connection: Good
-  ╲▂▂▂▂▂▂▂▂╲╱  │ Time: 13:12:17
+    ╭╯╭╯╭╯     │ neo@pop-os <br />
+   ╱▔▔▔▔▔╲▔╲   ├─────────────────── <br />
+  ╱┈╭╮┈╭╮┈╲╮╲  │ Arch: 64bit <br />
+  ▏┈▂▂▂▂▂┈▕╮▕  │ Release: 5.15 <br />
+  ▏┈╲▂▂▂╱┈▕╮▕  │ Connection: Good <br />
+  ╲▂▂▂▂▂▂▂▂╲╱  │ Time: 13:12:17 <br />
   
 </p>
