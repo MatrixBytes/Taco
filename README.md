@@ -6,11 +6,11 @@
 - Reminds you on taco day <br />
 
 How to setup Taco day? <br />
-Change TACOTIME (line 11) to your week day. <br /> 
+1. Change TACOTIME (line 11) to your week day. <br /> 
 Default is 6 (Friday). <br />
-Copy taco.py to your home directory. (~/)
-Append following line to your .bashrc (home directory):
-`python3 taco.py # Start the Taco script`
+2. Copy taco.py to your home directory. (~/)
+3. Append following line to your .bashrc (home directory): <br /> 
+`python3 taco.py # Start the Taco script` <br /> 
 
 Example output: <br /></p>
 ```
