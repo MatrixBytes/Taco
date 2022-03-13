@@ -12,4 +12,4 @@ Example output: <br /></p>
   ╱┈╭╮┈╭╮┈╲╮╲  │ Arch: 64bit <br />
   ▏┈▂▂▂▂▂┈▕╮▕  │ Release: 5.15 <br />
   ▏┈╲▂▂▂╱┈▕╮▕  │ Connection: Good <br />
-  ╲▂▂▂▂▂▂▂▂╲╱  │ Time: 13:12:17 <br />```
+  ╲▂▂▂▂▂▂▂▂╲╱  │ Time: 13:12:17 <br />
