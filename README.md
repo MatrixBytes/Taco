@@ -5,8 +5,8 @@
 - Minimalistic <br />
 - Reminds you on taco day <br />
 
-Example output: <br />
-
+Example output: <br /></p>
+```
     ╭╯╭╯╭╯     │ neo@pop-os <br />
    ╱▔▔▔▔▔╲▔╲   ├─────────────────── <br />
   ╱┈╭╮┈╭╮┈╲╮╲  │ Arch: 64bit <br />
@@ -14,4 +14,4 @@ Example output: <br />
   ▏┈╲▂▂▂╱┈▕╮▕  │ Connection: Good <br />
   ╲▂▂▂▂▂▂▂▂╲╱  │ Time: 13:12:17 <br />
   
-</p>
+```
