@@ -5,9 +5,9 @@
 - Minimalistic <br />
 - Reminds you on taco day <br />
 
-How to configure Taco day?
-Change TACOTIME (line 11) to your week day.
-Default is 6 (Friday).
+How to configure Taco day? <br />
+Change TACOTIME (line 11) to your week day. <br /> 
+Default is 6 (Friday). <br />
 
 Example output: <br /></p>
 ```
