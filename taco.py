@@ -5,7 +5,6 @@ from socket import gethostname, gethostbyname
 import socket
 from os import system
 
-system('cls')
 system('clear')
 
 TACOTIME = '5' # weekday of taco day | default is 5 (friday)
